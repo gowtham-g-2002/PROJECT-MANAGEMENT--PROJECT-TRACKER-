@@ -1,80 +1,80 @@
-📌 Project Tracker – Excel (Linked Description)
-1. Project Overview
+📊 Project Tracker – Excel
+📌 Overview
 
-Project Name: Report Creation
+Project Tracker – Excel is a structured, interactive tracker built in Microsoft Excel to monitor project progress across Planning, Execution, and Review stages.
+It provides a Gantt chart view (week-by-week) with progress percentages, enabling managers and teams to track timelines, task ownership, and completion status effectively.
 
-Project Start Date: 01-Jan-2025
+This project is ideal for aspiring data analysts or project managers who want to showcase Excel-based project monitoring and visualization skills.
 
-Current Date: 21-Jun-2025
 
-Weeks in Progress: Week 25
+🧰 Technologies Used
 
-This tracker monitors tasks across different stages of the project with clear visibility of deadlines, responsible leads, task duration, and progress percentage.
+Microsoft Excel
 
-2. Stages in the Project
+Conditional Formatting
 
-The project is divided into three stages:
+Excel Formulas (DATEDIF, ROUNDUP, IF, etc.)
 
-Planning Stage
+Gantt Chart Visualization
 
-Tasks are led by Henry, Bob, Drew, Parker.
+Task Progress Tracking
 
-Duration ranges between 24 to 50 days.
 
-Progress is between 50% – 70%.
+📊 Tracker Features
 
-Tasks are scheduled mainly between Jan – Mar 2025.
+✅ 1. Project Summary
 
-Execution Stage
+Project name, start date, current date, weeks in progress
 
-Tasks are led by David, Miller, Kong, Wang, Justin.
 
-Duration ranges between 34 to 47 days.
+✅ 2. Task Management
 
-Progress is between 52% – 75%.
+Task details: Lead, Start Date, End Date, Duration, Progress %
 
-Activities fall in Feb – Apr 2025.
 
-Review Stage
+✅ 3. Gantt Chart View
 
-Tasks are led by Henry, Bob, Drew.
+Weekly timeline (01-Jan-2025 → 21-Jun-2025)
 
-Duration ranges between 40 to 72 days.
+Color-coded task bars (progress visualization)
 
-Progress is between 25% – 65%.
 
-Review activities cover Apr – Jun 2025.
+✅ 4. Stage-wise Tracking
 
-3. Gantt Chart View (Weekly Progress)
+Planning Stage (Jan–Mar)
 
-Each task is mapped week by week from 01-Jan-2025 (Week 1) to 21-Jun-2025 (Week 25).
+Execution Stage (Feb–Apr)
 
-Green bars represent active task durations.
+Review Stage (Apr–Jun)
 
-Light green/dark green shades show varying task progress within that period.
 
-The timeline clearly shows overlaps and dependencies between tasks.
+✅ 5. Progress Monitoring
 
-4. Progress Tracking
+Real-time tracking with % completion
 
-Each task has a progress percentage (e.g., 50%, 65%, 75%).
+Easy identification of delayed or ongoing tasks
 
-These percentages help track whether the project is on time, delayed, or ahead.
 
-Review stage tasks are ongoing till the current week (Week 25).
+🧪 Getting Started
 
-5. Linked Insights
+Download Project Tracker.xlsx
 
-Dependencies: Planning tasks finish before execution; execution must complete before review.
+Open in Microsoft Excel (2016 or above recommended)
 
-Delays: Review stage tasks (Bob – 30%, Drew – 25%) are behind schedule compared to Henry’s 65%.
+Navigate to the PROJECT TRACKER sheet
 
-Current Week (Wk 25): The project is still in progress with final review tasks ongoing.
+Review tasks and weekly progress via Gantt chart
 
-Completion Forecast: If review tasks catch up, the project could be completed within July 2025.
+Update task progress % as project advances
+
 
 🙋 Author
-** GOWTHAM G **
+
+GOWTHAM G
 Fresher Data Analyst | Excel • Power BI • SQL
 📧 ggowthambtechit@gmail.com
 🔗 LinkedIn - www.linkedin.com/in/gowtham-gnanasekar
+
+📌 About
+
+Project Tracker (Excel) – A task tracking and monitoring solution built in Excel. Provides a weekly Gantt chart, stage-wise breakdown, and progress updates for projects. Great practice project for beginner data analysts or PMO roles to showcase Excel skills.
